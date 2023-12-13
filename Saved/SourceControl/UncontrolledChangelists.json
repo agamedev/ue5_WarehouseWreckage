@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/MyContent/Maps/My_Minimal_Default.umap",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/MyContent/BP_Projectile.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/MyContent/Maps/Main.umap",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/MyContent/BP_SM_Barrel01.uasset",
+				"D:/UnrealEngine5/Projects/Learn/Section2/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset"
+			]
+		}
+	]
+}
